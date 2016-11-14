@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["squared_euclidean","Returns the squared euclidean distance between two points, when you only need to compare distances, rhather than having the exact distance between the points this metric is benefitial because it avoids the expensive square root computation."]]});
